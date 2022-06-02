@@ -5,7 +5,7 @@ https://discord.gg/
 https://discord.gg/marino
 
 
-[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/800341103408578610?theme=light&bg=7ad3f5&animated=false&hideDiscrim=true&borderRadius=30px&idleMessage=Probably%20doing%20something%20else...)](https://discord.com/users/939107266580332554)
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/800341103408578610?theme=light&bg=7ad3f5&animated=false&hideDiscrim=true&borderRadius=30px&idleMessage=Probably%20doing%20something%20else...)](https://discord.com/users/800341103408578610)
 
 ## Langauges I Know:
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
